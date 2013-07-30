@@ -1,0 +1,66 @@
+/* This CSS file is created for you to create or override any of the existing CSS styles used in this theme */
+#container {
+	width: 638px;
+}
+
+#content {
+	width: 638px;
+}
+
+#primary {
+	width: 322px;
+}
+
+#searchbar {
+	display: none;
+}
+
+a, a:link, a:visited {
+	font-weight: bold;
+}
+
+a:hover {
+	color: #585858;
+	text-decoration: underline;
+}
+
+.posts-default .entry-thumbnails {
+	width: 197px;
+}
+
+.posts-default {
+	margin: 0 0 10px;
+}
+
+.posts-default li {
+	font-size: 10px;
+	height: 234px;
+	margin: 0 15px 0 0;
+	width: 197px;
+}
+
+body {
+	font: 11px EquityText, Helvetica Neue, Gill Sans MT, Calibri, sans serif;
+}
+
+.logo {
+	font-family: EquityText, Helvetica Neue, Gill Sans MT, Calibri, sans serif;
+	padding: 21px 0 21px 10px;
+	text-transform: none;
+}
+
+.blog-name {
+	font-size: 20px;
+}
+
+.blog-description {
+	font-size: 12px;
+}
+
+#nav .sf-menu {
+	line-height: 1;
+}
+
+#nav .sf-menu a {
+	font-size: 13px;
+}
